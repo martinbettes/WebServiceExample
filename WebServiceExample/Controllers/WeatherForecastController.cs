@@ -16,7 +16,7 @@ namespace WebServiceExample.Controllers
         public User test()
         {
             User user = new User();
-            user.Name = "Pepa Doležal";
+            user.Name = "Pepa Doleža l";
             user.BirthDate = DateTime.Now;
             return user;
         }
